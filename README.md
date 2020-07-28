@@ -11,7 +11,7 @@ Here we have done using a 3D color histogram in HSV color space with bins as - H
 
 2. Indexing:
 After defining the method of extracting features from the image we apply the image descriptor on all the images of the dataset so as to extract the features and then save them cumulatively under a csv file called “index.cv”.
-We have used INRIA Holidays Dataset for this project of Image search engine using Python and OpenCv.
+We have used INRIA Holidays Dataset for this project of Image search engine using Python and OpenCV.
 
 3. Defining your similarity metric:
 After extracting and storing the features, we compare them. Here we have used the Chi-square test. Chi - square test is used to find dependencies between categorical variables.
