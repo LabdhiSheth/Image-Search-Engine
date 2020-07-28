@@ -22,3 +22,10 @@ After comparing the features we move forward with performing actual search. An a
 A few output images - 
 
 ![input1](images/1.png)
+![input2](images/2.png)
+![input3](images/3.png)
+![input4](images/4.png)
+![input5](images/5.png)
+![input6](images/6.png)
+![input7](images/7.png)
+![input8](images/8.png)
