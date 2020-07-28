@@ -21,3 +21,4 @@ After comparing the features we move forward with performing actual search. An a
 
 A few output images - 
 
+![input1](images/1.png)
